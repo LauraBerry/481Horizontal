@@ -1,0 +1,32 @@
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\lnberry\Documents\Visual Studio 2013\Projects\cpsc481\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\App.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\MainWindow.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Page1.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Page1.g.cs
