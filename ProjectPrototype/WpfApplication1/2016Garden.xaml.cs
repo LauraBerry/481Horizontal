@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for Window1.xaml
+    /// Interaction logic for _2016Garden.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class _2016Garden : Page
     {
-        public Window1()
+        public _2016Garden()
         {
             InitializeComponent();
         }

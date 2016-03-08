@@ -13,10 +13,11 @@
         </Canvas.RenderTransform>
         <TextBox HorizontalAlignment="Left" Height="86" TextWrapping="Wrap" Text="Green Thumb" VerticalAlignment="Top" Width="259" FontSize="72" FontFamily="Freestyle Script" Canvas.Left="296"/>
         <ListBox x:Name="GardenList" Height="295" Canvas.Left="10" Canvas.Top="105" Width="323">
-            <Button Background="#FF0D7212" Content="2016" Height="78" Width="305" FontSize="48"/>
+            <Button x:Name="_2016Garden" Background="#FF0D7212" Content="2016" Height="78" Width="305" FontSize="48"/>
             <Button Background="#FF0D7212" Content="2015" Height="78" Width="305" FontSize="48"/>
             <Button Background="#FF0D7212" Content="2014" Height="78" Width="305" FontSize="48"/>
         </ListBox>
-        <Button Content="Look Up Plants" Canvas.Left="378" Canvas.Top="112" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F"/>
+        <Button x:Name="PlantCategories" Content="Look Up Plants" Canvas.Left="378" Canvas.Top="112" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F"/>
+        <Button x:Name="Create_NewGarden" Content="New Garden" Canvas.Left="378" Canvas.Top="254" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F"/>
     </Canvas>
 </Window>

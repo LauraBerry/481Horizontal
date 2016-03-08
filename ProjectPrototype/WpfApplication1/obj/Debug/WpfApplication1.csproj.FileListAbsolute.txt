@@ -17,8 +17,6 @@ D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.exe
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.pdb
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
-D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.baml
-D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Window1.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\App.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\bin\Debug\WpfApplication1.exe
@@ -28,5 +26,7 @@ D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
-D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Page1.baml
-D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\Page1.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FruitList.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\PlantCategories.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FruitList.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\PlantCategories.g.cs
