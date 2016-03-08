@@ -30,3 +30,13 @@ D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\PlantCategories.baml
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FruitList.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\PlantCategories.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\2016Garden.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\CarrotInfoPage.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\HebList.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FlowerList.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\VeggieList.baml
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\2016Garden.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\CarrotInfoPage.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\HebList.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FlowerList.g.cs
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\VeggieList.g.cs

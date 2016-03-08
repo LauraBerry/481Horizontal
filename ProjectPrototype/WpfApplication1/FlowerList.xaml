@@ -9,7 +9,7 @@
 
     <Canvas Background="#FFF1F7EF">
         <Label Content="               Flowers" Canvas.Left="34" Canvas.Top="32" Width="220" FontSize="20"/>
-        <ListBox Height="155" Canvas.Left="34" Canvas.Top="60" Width="220" SelectionChanged="ListBox_SelectionChanged">
+        <ListBox Height="155" Canvas.Left="34" Canvas.Top="60" Width="220">
             <Button Background="#FF0FA624" Content="..." Height="32" Width="205"/>
             <Button x:Name="Daisy_Button" Background="#FF0FA624" Content="Daisy" Height="28" Width="206"/>
             <Button Background="#FF0FA624" Content="..." Height="28" Width="205"/>

@@ -8,7 +8,7 @@
 
     <Canvas Background="#FFF1F7EF" Margin="-16,0,0,0">
         <Label Content="               2016" Canvas.Left="34" Canvas.Top="25" Width="220" FontSize="20"/>
-        <ListBox Height="175" Canvas.Left="10" Canvas.Top="60" Width="135" SelectionChanged="ListBox_SelectionChanged">
+        <ListBox Height="175" Canvas.Left="10" Canvas.Top="60" Width="135">
             <Button x:Name="Apple_Button" Background="#FF0FA624" Content="Apple" Height="32" Width="119"/>
             <Button Background="#FF0FA624" Content="..." Height="28" Width="119"/>
             <Button x:Name="Pomegranit_Button" Background="#FF0FA624" Content="Carrot" Height="28" Width="119"/>

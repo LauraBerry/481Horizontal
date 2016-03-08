@@ -53,12 +53,42 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="2016Garden.xaml.cs">
+      <DependentUpon>2016Garden.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Carrot.xaml.cs">
+      <DependentUpon>Carrot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CarrotInfoPage.xaml.cs">
+      <DependentUpon>CarrotInfoPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="FruitList.xaml.cs">
       <DependentUpon>FruitList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HebList.xaml.cs">
+      <DependentUpon>HebList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FlowerList.xaml.cs">
+      <DependentUpon>FlowerList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VeggieList.xaml.cs">
+      <DependentUpon>VeggieList.xaml</DependentUpon>
     </Compile>
     <Compile Include="PlantCategories.xaml.cs">
       <DependentUpon>PlantCategories.xaml</DependentUpon>
     </Compile>
+    <Page Include="2016Garden.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Carrot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CarrotInfoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -72,6 +102,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="FruitList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HebList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FlowerList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VeggieList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -106,6 +148,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="carrot.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
