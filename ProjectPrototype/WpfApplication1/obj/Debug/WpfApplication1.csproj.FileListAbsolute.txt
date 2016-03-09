@@ -40,3 +40,36 @@ D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\HebList.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\FlowerList.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\Project Prototype\WpfApplication1\obj\Debug\VeggieList.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.exe
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.pdb
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\2016Garden.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\Carrot.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\CarrotInfoPage.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\MainWindow.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\FruitList.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\HebList.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\FlowerList.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\VeggieList.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\PlantCategories.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\2016Garden.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\Carrot.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\CarrotInfoPage.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\MainWindow.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\FruitList.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\HebList.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\FlowerList.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\VeggieList.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\PlantCategories.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\App.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\bin\Debug\WpfApplication1.exe
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\bin\Debug\WpfApplication1.pdb
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\HomeScreen.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\HomeScreen.g.cs
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\PlantSearch.baml
+U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\PlantSearch.g.cs
