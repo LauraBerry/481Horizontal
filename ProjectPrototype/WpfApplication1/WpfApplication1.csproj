@@ -55,23 +55,20 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="2016Garden.xaml.cs">
-      <DependentUpon>2016Garden.xaml</DependentUpon>
+    <Compile Include="CarrotInformationPage.xaml.cs">
+      <DependentUpon>CarrotInformationPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Carrot.xaml.cs">
-      <DependentUpon>Carrot.xaml</DependentUpon>
+    <Compile Include="FlowersList.xaml.cs">
+      <DependentUpon>FlowersList.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CarrotInfoPage.xaml.cs">
-      <DependentUpon>CarrotInfoPage.xaml</DependentUpon>
+    <Compile Include="FruitsList.xaml.cs">
+      <DependentUpon>FruitsList.xaml</DependentUpon>
     </Compile>
-    <Compile Include="FruitList.xaml.cs">
-      <DependentUpon>FruitList.xaml</DependentUpon>
+    <Compile Include="Garden2016.xaml.cs">
+      <DependentUpon>Garden2016.xaml</DependentUpon>
     </Compile>
-    <Compile Include="HebList.xaml.cs">
-      <DependentUpon>HebList.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="FlowerList.xaml.cs">
-      <DependentUpon>FlowerList.xaml</DependentUpon>
+    <Compile Include="HerbsList.xaml.cs">
+      <DependentUpon>HerbsList.xaml</DependentUpon>
     </Compile>
     <Compile Include="HomeScreen.xaml.cs">
       <DependentUpon>HomeScreen.xaml</DependentUpon>
@@ -79,21 +76,29 @@
     <Compile Include="PlantSearch.xaml.cs">
       <DependentUpon>PlantSearch.xaml</DependentUpon>
     </Compile>
-    <Compile Include="VeggieList.xaml.cs">
-      <DependentUpon>VeggieList.xaml</DependentUpon>
+    <Compile Include="VeggetableList.xaml.cs">
+      <DependentUpon>VeggetableList.xaml</DependentUpon>
     </Compile>
     <Compile Include="PlantCategories.xaml.cs">
       <DependentUpon>PlantCategories.xaml</DependentUpon>
     </Compile>
-    <Page Include="2016Garden.xaml">
+    <Page Include="CarrotInformationPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Carrot.xaml">
+    <Page Include="FlowersList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="CarrotInfoPage.xaml">
+    <Page Include="FruitsList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Garden2016.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HerbsList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -113,23 +118,11 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="FruitList.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="HebList.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="FlowerList.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="PlantSearch.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="VeggieList.xaml">
+    <Page Include="VeggetableList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

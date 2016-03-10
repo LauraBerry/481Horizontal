@@ -16,22 +16,13 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Garden2016.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Garden2016 : UserControl
     {
-        HomeScreen homePage = new HomeScreen();
-        PlantSearch plantSearch = new PlantSearch();
-        public MainWindow()
+        public Garden2016()
         {
             InitializeComponent();
-            MainWindowStackPanel.Children.Add(homePage);
-        }
-
-        private void MainWindowStackPanel_Loaded(object sender, RoutedEventArgs e)
-        {
-            MainWindowStackPanel.Children.Clear();
-            MainWindowStackPanel.Children.Add(homePage);
         }
     }
 }
