@@ -38,5 +38,26 @@ namespace WpfApplication1
         {
             Switcher.Switch(new HomeScreen());
         }
+
+        private void FruitCategory_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new FruitsList());
+        }
+
+        private void VeggieCategory_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new VeggetableList());
+        }
+
+        private void Flowers_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new FlowersList());
+        }
+
+        private void Herbs_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new HerbsList());
+        }
+
     }
 }

@@ -37,5 +37,15 @@ namespace WpfApplication1
         {
             GardenName.Text = "";
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new HomeScreen());
+        }
+
+        private void Add_Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new PlantSearch());
+        }
     }
 }

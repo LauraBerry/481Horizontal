@@ -10,10 +10,10 @@
         </ListBox>
         <Button Content="Back" Width="65" Height="38" FontSize="16" Canvas.Left="17" Canvas.Top="12" />
         <TextBox Height="200" Canvas.Left="462" TextWrapping="Wrap" Text="" Canvas.Top="120" Width="305"/>
-        <Button x:Name="Add_Button" Content="Add" Canvas.Left="60" Canvas.Top="325" Width="56" FontSize="16"/>
+        <Button x:Name="Add_Button" Content="Add" Canvas.Left="60" Canvas.Top="325" Width="56" FontSize="16" Click="Add_Button_Click"/>
         <Button x:Name="Remove_Button" Content="Remove" Canvas.Left="331" Canvas.Top="325" Width="65" FontSize="16"/>
         <Label Content="Notes" Canvas.Left="462" Canvas.Top="89" Width="305" FontSize="18" HorizontalContentAlignment="Center"/>
         <TextBox x:Name="GardenName" Height="34" Canvas.Left="60" TextWrapping="Wrap" Text="Please Enter Garden Name" Canvas.Top="58" Width="707" FontSize="20" TextAlignment="Center" TextChanged="GardenName_TextChanged"/>
-        <Button Content="Save" Canvas.Left="331" Canvas.Top="378" Width="163" Height="37" FontSize="20"/>
+        <Button Content="Save" Canvas.Left="331" Canvas.Top="378" Width="163" Height="37" FontSize="20" Click="Button_Click"/>
     </Canvas>
 </UserControl>
