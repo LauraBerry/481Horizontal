@@ -33,5 +33,10 @@ namespace WpfApplication1
         }
 
         #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new HomeScreen());
+        }
     }
 }

@@ -38,5 +38,10 @@ namespace WpfApplication1
         {
             Switcher.Switch(new HomeScreen());
         }
+
+        private void Add_Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new PlantSearch());
+        }
     }
 }
