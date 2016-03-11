@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="WpfApplication1.FlowersList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="452" Width="813">
+    <Canvas Background="#FFF1F7EF">
+        <Label Content="Flowers" Canvas.Left="125" Canvas.Top="38" Width="573" FontSize="48" FontFamily="Freestyle Script" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <ListBox Height="224" Canvas.Left="125" Canvas.Top="105" Width="573" HorizontalContentAlignment="Center">
+            <Button Background="#FF1C7609" Content="..." Height="46" Width="500" FontSize="20"/>
+            <Button x:Name="Daisy_Button" Background="#FF1C7609" Content="Daisy" Height="46" Width="500" FontSize="20"/>
+            <Button Background="#FF1C7609" Content="..." Height="46" Width="500" FontSize="20"/>
+            <Button x:Name="Violet_Button" Background="#FF1C7609" Content="Violet" Height="46" Width="500" FontSize="20"/>
+        </ListBox>
+        <Button Content="Back" Width="76" Height="30" FontSize="18"/>
+        <TextBox Height="30" Canvas.Left="125" TextWrapping="Wrap" Text="" Canvas.Top="359" Width="474"/>
+        <Button Content="'Search" Canvas.Left="599" Canvas.Top="359" Width="99" Height="30" FontSize="18"/>
+    </Canvas>
+</UserControl>
