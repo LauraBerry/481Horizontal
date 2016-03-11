@@ -58,6 +58,7 @@
     <Compile Include="CarrotInformationPage.xaml.cs">
       <DependentUpon>CarrotInformationPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Switcher.cs" />
     <Compile Include="FlowersList.xaml.cs">
       <DependentUpon>FlowersList.xaml</DependentUpon>
     </Compile>
@@ -73,14 +74,12 @@
     <Compile Include="HomeScreen.xaml.cs">
       <DependentUpon>HomeScreen.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Switchable.cs" />
     <Compile Include="PlantSearch.xaml.cs">
       <DependentUpon>PlantSearch.xaml</DependentUpon>
     </Compile>
     <Compile Include="VeggetableList.xaml.cs">
       <DependentUpon>VeggetableList.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="PlantCategories.xaml.cs">
-      <DependentUpon>PlantCategories.xaml</DependentUpon>
     </Compile>
     <Page Include="CarrotInformationPage.xaml">
       <SubType>Designer</SubType>
@@ -123,10 +122,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="VeggetableList.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="PlantCategories.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

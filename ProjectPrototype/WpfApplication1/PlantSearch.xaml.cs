@@ -18,11 +18,20 @@ namespace WpfApplication1
     /// <summary>
     /// Interaction logic for PlantSearch.xaml
     /// </summary>
-    public partial class PlantSearch : UserControl
+    public partial class PlantSearch : UserControl, Switchable
     {
         public PlantSearch()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
     }
 }

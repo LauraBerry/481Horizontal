@@ -18,11 +18,25 @@ namespace WpfApplication1
     /// <summary>
     /// Interaction logic for Garden2016.xaml
     /// </summary>
-    public partial class Garden2016 : UserControl
+    public partial class Garden2016 : UserControl, Switchable
     {
         public Garden2016()
         {
-            InitializeComponent();
+            this.InitializeComponent();
+        }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new HomeScreen());
         }
     }
 }

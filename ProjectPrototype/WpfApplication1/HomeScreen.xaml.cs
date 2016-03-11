@@ -18,16 +18,30 @@ namespace WpfApplication1
     /// <summary>
     /// Interaction logic for HomeScreen.xaml
     /// </summary>
-    public partial class HomeScreen : UserControl
+    public partial class HomeScreen : UserControl, Switchable
     {
         public HomeScreen()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
 
         private void PlantCategories_Click(object sender, RoutedEventArgs e)
         {
+            Switcher.Switch(new PlantSearch());
+        }
 
+        private void _2016Garden_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new Garden2016());
         }
     }
 }

@@ -20,18 +20,28 @@ namespace WpfApplication1
     /// </summary>
     public partial class MainWindow : Window
     {
-        HomeScreen homePage = new HomeScreen();
-        PlantSearch plantSearch = new PlantSearch();
         public MainWindow()
         {
             InitializeComponent();
-            MainWindowStackPanel.Children.Add(homePage);
+            Switcher.pageSwitcher = this;
+            Switcher.Switch(new HomeScreen());
         }
-
-        private void MainWindowStackPanel_Loaded(object sender, RoutedEventArgs e)
+ 
+        public void Navigate(UserControl nextPage)
         {
-            MainWindowStackPanel.Children.Clear();
-            MainWindowStackPanel.Children.Add(homePage);
+            this.Content = nextPage;
+        }
+ 
+        public void Navigate(UserControl nextPage, object state)
+        {
+            this.Content = nextPage;
+            Switchable s = nextPage as Switchable;
+ 
+            if (s != null)
+                s.UtilizeState(state);
+            else
+                throw new ArgumentException("NextPage is not Switchable! "
+                  + nextPage.Name.ToString());
         }
     }
 }
