@@ -16,16 +16,15 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for Garden2016.xaml
+    /// Interaction logic for CarrotRemoved.xaml
     /// </summary>
-    public partial class Garden2016 : UserControl, Switchable
+    public partial class CarrotRemoved : UserControl, Switchable
     {
-        public Garden2016()
+        public CarrotRemoved()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
-
-        #region Switchable Members
+               #region Switchable Members
 
         public void UtilizeState(object state)
         {
@@ -33,8 +32,7 @@ namespace WpfApplication1
         }
 
         #endregion
-
-        private void Button_Click(object sender, RoutedEventArgs e)
+           private void Button_Click(object sender, RoutedEventArgs e)
         {
             Switcher.Switch(new HomeScreen());
         }

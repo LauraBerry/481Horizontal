@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-U:\cpsc481\Project\ProjectPrototype\WpfApplication1\obj\Debug\
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\ProjectPrototype\WpfApplication1\obj\Debug\
 WpfApplication1
 none
 false
 DEBUG;TRACE
-U:\cpsc481\Project\ProjectPrototype\WpfApplication1\App.xaml
-111684490845
+D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\ProjectPrototype\WpfApplication1\App.xaml
+131682004715
 
-171852549884
+19997229201
 141012385901
-AppleInfoPage.xaml;CarrotInformationPage.xaml;CreateNewGarden.xaml;FlowersList.xaml;FruitsList.xaml;Garden2016.xaml;HerbsList.xaml;HomeScreen.xaml;MainWindow.xaml;PlantSearch.xaml;VeggetableList.xaml;
+AppleInfoPage.xaml;CarrotInformationPage.xaml;CarrotRemoved.xaml;CreateNewGarden.xaml;FlowersList.xaml;FruitsList.xaml;Garden2016.xaml;HerbsList.xaml;HomeScreen.xaml;MainWindow.xaml;PlantSearch.xaml;RemoveFromGarden.xaml;VeggetableList.xaml;
 
 False
 

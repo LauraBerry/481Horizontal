@@ -61,8 +61,14 @@
     <Compile Include="CarrotInformationPage.xaml.cs">
       <DependentUpon>CarrotInformationPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CarrotRemoved.xaml.cs">
+      <DependentUpon>CarrotRemoved.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CreateNewGarden.xaml.cs">
       <DependentUpon>CreateNewGarden.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveFromGarden.xaml.cs">
+      <DependentUpon>RemoveFromGarden.xaml</DependentUpon>
     </Compile>
     <Compile Include="Switcher.cs" />
     <Compile Include="FlowersList.xaml.cs">
@@ -92,6 +98,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="CarrotInformationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CarrotRemoved.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -132,6 +142,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="PlantSearch.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RemoveFromGarden.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
