@@ -33,10 +33,6 @@ namespace WpfApplication1
         }
 
         #endregion
-        private void GardenName_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            GardenName.Text = "";
-        }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -46,6 +42,11 @@ namespace WpfApplication1
         private void Add_Button_Click(object sender, RoutedEventArgs e)
         {
             Switcher.Switch(new PlantSearch());
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new HomeScreen());
         }
     }
 }

@@ -18,11 +18,25 @@ namespace WpfApplication1
     /// <summary>
     /// Interaction logic for CarrotInformationPage.xaml
     /// </summary>
-    public partial class CarrotInformationPage : UserControl
+    public partial class CarrotInformationPage : UserControl, Switchable
     {
         public CarrotInformationPage()
         {
             InitializeComponent();
+        }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new VeggetableList());
         }
     }
 }

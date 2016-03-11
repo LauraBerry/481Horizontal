@@ -18,11 +18,24 @@ namespace WpfApplication1
     /// <summary>
     /// Interaction logic for FruitsList.xaml
     /// </summary>
-    public partial class FruitsList : UserControl
+    public partial class FruitsList : UserControl, Switchable
     {
         public FruitsList()
         {
             InitializeComponent();
+        }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new PlantSearch());
         }
     }
 }
