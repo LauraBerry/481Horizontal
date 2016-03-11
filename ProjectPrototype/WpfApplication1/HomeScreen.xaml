@@ -12,7 +12,7 @@
             <Button Background="#FF0D7212" Content="2014" Height="78" Width="305" FontSize="48"/>
         </ListBox>
         <Button x:Name="PlantCategories" Content="Look Up Plants" Canvas.Left="378" Canvas.Top="112" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F" Click="PlantCategories_Click" />
-        <Button x:Name="Create_NewGarden" Content="New Garden" Canvas.Left="378" Canvas.Top="254" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F"/>
+        <Button x:Name="Create_NewGarden" Content="New Garden" Canvas.Left="378" Canvas.Top="254" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F" Click="Create_NewGarden_Click"/>
         <Label Content="Green Thumb" Canvas.Left="228" FontFamily="Freestyle Script" FontSize="72"/>
     </Canvas>
 </UserControl>

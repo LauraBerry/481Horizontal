@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for HomeScreen.xaml
+    /// Interaction logic for CreateNewGarden.xaml
     /// </summary>
-    public partial class HomeScreen : UserControl, Switchable
+    public partial class CreateNewGarden : UserControl, Switchable
     {
-        public HomeScreen()
+        public CreateNewGarden()
         {
             this.InitializeComponent();
         }
@@ -33,20 +33,9 @@ namespace WpfApplication1
         }
 
         #endregion
-
-        private void PlantCategories_Click(object sender, RoutedEventArgs e)
+        private void GardenName_TextChanged(object sender, TextChangedEventArgs e)
         {
-            Switcher.Switch(new PlantSearch());
-        }
-
-        private void _2016Garden_Click(object sender, RoutedEventArgs e)
-        {
-            Switcher.Switch(new Garden2016());
-        }
-
-        private void Create_NewGarden_Click(object sender, RoutedEventArgs e)
-        {
-            Switcher.Switch(new CreateNewGarden());
+            GardenName.Text = "";
         }
     }
 }
