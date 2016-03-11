@@ -7,7 +7,7 @@
              d:DesignHeight="452" Width="813">
     <Canvas Background="#FFF1F7EF">
         <Label Content="Fruit" Canvas.Left="125" Canvas.Top="38" Width="573" FontSize="48" FontFamily="Freestyle Script" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <ListBox Height="224" Canvas.Left="125" Canvas.Top="105" Width="573" SelectionChanged="ListBox_SelectionChanged" HorizontalContentAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <ListBox Height="224" Canvas.Left="125" Canvas.Top="105" Width="573" HorizontalContentAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center">
             <Button x:Name="Apple_Button" Background="#FF1C7609" Content="Apple" Height="46" Width="500" FontSize="20"/>
             <Button Background="#FF1C7609" Content="..." Height="46" Width="500" FontSize="20"/>
             <Button x:Name="Pomegranit_Button" Background="#FF1C7609" Content="Pomegranit" Height="46" Width="500" FontSize="20"/>
