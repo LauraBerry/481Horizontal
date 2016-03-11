@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AppleInfoPage.xaml.cs">
+      <DependentUpon>AppleInfoPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CarrotInformationPage.xaml.cs">
       <DependentUpon>CarrotInformationPage.xaml</DependentUpon>
     </Compile>
@@ -84,6 +87,10 @@
     <Compile Include="VeggetableList.xaml.cs">
       <DependentUpon>VeggetableList.xaml</DependentUpon>
     </Compile>
+    <Page Include="AppleInfoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="CarrotInformationPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -162,6 +169,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="carrot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="th.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
