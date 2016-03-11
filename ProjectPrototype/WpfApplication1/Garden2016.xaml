@@ -13,7 +13,7 @@
             <Button x:Name="Pomegranit_Button" Background="#FF0FA624" Content="Carrot" Height="40" Width="306" FontSize="16"/>
             <Button Background="#FF0FA624" Content="..." Height="40" Width="306" FontSize="16"/>
         </ListBox>
-        <Button Content="Back" Width="65" Height="38" FontSize="16" Canvas.Left="10" Canvas.Top="5" Click="Button_Click"/>
+        <Button Content="Back" Width="65" Height="38" FontSize="16" Canvas.Left="17" Canvas.Top="12" Click="Button_Click"/>
         <TextBox Height="200" Canvas.Left="462" TextWrapping="Wrap" Text="" Canvas.Top="120" Width="305"/>
         <Button x:Name="Add_Button" Content="Add" Canvas.Left="60" Canvas.Top="325" Width="56" FontSize="16"/>
         <Button x:Name="Remove_Button" Content="Remove" Canvas.Left="331" Canvas.Top="325" Width="65" FontSize="16"/>

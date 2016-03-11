@@ -22,7 +22,7 @@ namespace WpfApplication1
     {
         public MainWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
             Switcher.pageSwitcher = this;
             Switcher.Switch(new HomeScreen());
         }
