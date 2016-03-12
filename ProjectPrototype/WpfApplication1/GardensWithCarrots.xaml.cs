@@ -16,7 +16,8 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for UserControl1.xaml
+    /// Interaction logic for GardensWithCarrots.xaml
+    /// ** HAS YET TO BE IMPLEMENTED **
     /// </summary>
     public partial class GardensWithCarrots : UserControl, Switchable
     {
