@@ -16,13 +16,13 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for CarrotInformationPage.xaml
+    /// Interaction logic for UserControl1.xaml
     /// </summary>
-    public partial class CarrotInformationPage : UserControl, Switchable
+    public partial class GardensWithCarrots : UserControl, Switchable
     {
-        public CarrotInformationPage()
+        public GardensWithCarrots()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
 
         #region Switchable Members
@@ -33,15 +33,5 @@ namespace WpfApplication1
         }
 
         #endregion
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Switcher.Switch(new VeggetableList());
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Switcher.Switch(new GardensWithCarrots());
-        }
     }
 }

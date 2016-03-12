@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
              d:DesignHeight="452" Width="813">
-    <Canvas Background="#FFF1F7EF" Margin="-16,0,0,0">
+    <Canvas Background="#FF649962" Margin="-16,0,0,0">
         <ListBox Height="200" Canvas.Left="60" Canvas.Top="120" Width="336" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center">
         </ListBox>
         <Button Content="Back" FontSize="16" Canvas.Left="21" Canvas.Top="21" Width="75" Height="28" Click="Button_Click_1" />

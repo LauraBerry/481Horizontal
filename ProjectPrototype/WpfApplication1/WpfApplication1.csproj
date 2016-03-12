@@ -90,6 +90,9 @@
     <Compile Include="PlantSearch.xaml.cs">
       <DependentUpon>PlantSearch.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GardensWithCarrots.xaml.cs">
+      <DependentUpon>GardensWithCarrots.xaml</DependentUpon>
+    </Compile>
     <Compile Include="VeggetableList.xaml.cs">
       <DependentUpon>VeggetableList.xaml</DependentUpon>
     </Compile>
@@ -146,6 +149,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="RemoveFromGarden.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GardensWithCarrots.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -147,3 +147,5 @@ U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\AppleInfoPage.g.
 U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CarrotRemoved.g.cs
 U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CreateNewGarden.g.cs
 U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\RemoveFromGarden.g.cs
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\GardensWithCarrots.baml
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\GardensWithCarrots.g.cs
