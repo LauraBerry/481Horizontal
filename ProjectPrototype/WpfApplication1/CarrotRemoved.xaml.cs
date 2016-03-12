@@ -46,5 +46,10 @@ namespace WpfApplication1
         {
             Switcher.Switch(new RemoveFromGarden());
         }
+
+        private void Add_Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new PlantSearch());
+        }
     }
 }
