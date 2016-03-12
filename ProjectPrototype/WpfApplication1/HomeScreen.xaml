@@ -6,13 +6,13 @@
              mc:Ignorable="d" 
              d:DesignHeight="452" Width="813">
     <Canvas x:Name="MainPage" RenderTransformOrigin="0,0" Margin="0,0,-444,-148" Background="#FFF3F5F3">
-        <ListBox x:Name="GardenList" Height="295" Canvas.Left="10" Canvas.Top="105" Width="323">
+        <ListBox x:Name="GardenList" Height="295" Canvas.Left="10" Canvas.Top="105" Width="348" ScrollViewer.VerticalScrollBarVisibility="Visible">
             <Button x:Name="_2016Garden" Background="#FF0D7212" Content="2016" Height="78" Width="305" FontSize="48" Click="_2016Garden_Click"/>
             <Button Background="#FF0D7212" Content="2015" Height="78" Width="305" FontSize="48"/>
-            <Button Background="#FF0D7212" Content="2014" Height="78" Width="305" FontSize="48"/>
         </ListBox>
         <Button x:Name="PlantCategories" Content="Look Up Plants" Canvas.Left="378" Canvas.Top="112" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F" Click="PlantCategories_Click" />
         <Button x:Name="Create_NewGarden" Content="New Garden" Canvas.Left="378" Canvas.Top="254" Width="347" Height="91" FontSize="24" Background="#FF0A6E0F" Click="Create_NewGarden_Click"/>
-        <Label Content="Green Thumb" Canvas.Left="228" FontFamily="Freestyle Script" FontSize="72"/>
+        <Label Content="Green Thumb" Canvas.Left="261" FontFamily="Freestyle Script" FontSize="72"/>
+        <Label Content="- Garden Log -" Canvas.Left="300" Canvas.Top="57" FontFamily="Papyrus" FontSize="24"/>
     </Canvas>
 </UserControl>

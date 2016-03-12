@@ -139,3 +139,11 @@ D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\ProjectPrototype\WpfApplication1\obj\Debug\RemoveFromGarden.g.cs
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\ProjectPrototype\WpfApplication1\obj\Debug\CarrotRemoved.baml
 D:\laura's documents\school\Computer science\cpsc 481\project\horizontal\Project\ProjectPrototype\WpfApplication1\obj\Debug\CarrotRemoved.g.cs
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\AppleInfoPage.baml
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CarrotRemoved.baml
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CreateNewGarden.baml
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\RemoveFromGarden.baml
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\AppleInfoPage.g.cs
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CarrotRemoved.g.cs
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\CreateNewGarden.g.cs
+U:\481\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\RemoveFromGarden.g.cs

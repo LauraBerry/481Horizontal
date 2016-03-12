@@ -48,5 +48,10 @@ namespace WpfApplication1
         {
             Switcher.Switch(new RemoveFromGarden());
         }
+
+        private void Pomegranit_Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new CarrotInformationPage());
+        }
     }
 }

@@ -11,7 +11,7 @@
         <ListBox Height="200" Canvas.Left="60" Canvas.Top="120" Width="336" VerticalAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center">
             <Button x:Name="Apple_Button" Background="#FF0FA624" Content="Apple" Height="40" Width="306" FontSize="16"/>
             <Button Background="#FF0FA624" Content="..." Height="40" Width="306" FontSize="16"/>
-            <Button x:Name="Pomegranit_Button" Background="#FF0FA624" Content="Carrot" Height="40" Width="306" FontSize="16"/>
+            <Button x:Name="Pomegranit_Button" Background="#FF0FA624" Content="Carrot" Height="40" Width="306" FontSize="16" Click="Pomegranit_Button_Click"/>
         </ListBox>
         <TextBox Height="200" Canvas.Left="462" TextWrapping="Wrap" Text="" Canvas.Top="120" Width="305"/>
         <Button x:Name="Remove_Button" Content="Remove" Canvas.Left="331" Canvas.Top="325" Width="65" FontSize="16" Click="Remove_Button_Click"/>

@@ -20,6 +20,7 @@ namespace WpfApplication1
     /// </summary>
     public partial class CreateNewGarden : UserControl, Switchable
     {
+        bool clickTitle = false;
         public CreateNewGarden()
         {
             this.InitializeComponent();
@@ -47,6 +48,16 @@ namespace WpfApplication1
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             Switcher.Switch(new HomeScreen());
+        }
+
+        private void GardenName_Focus(object sender, RoutedEventArgs e)
+        {
+               if(!clickTitle)
+               {
+                   TextBox name = sender as TextBox;
+                   name.Text = String.Empty;
+                   clickTitle = true;
+               }
         }
     }
 }

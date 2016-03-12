@@ -6,15 +6,13 @@
              mc:Ignorable="d" 
              d:DesignHeight="452" Width="813">
     <Canvas Background="#FFF1F7EF">
-        <Label Content="Flowers" Canvas.Left="125" Canvas.Top="38" Width="573" FontSize="48" FontFamily="Freestyle Script" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
-        <ListBox Height="224" Canvas.Left="125" Canvas.Top="105" Width="573" HorizontalContentAlignment="Center">
+        <Label Content="Flowers" Canvas.Left="190" Canvas.Top="16" Width="392" FontSize="48" FontFamily="Freestyle Script" HorizontalAlignment="Center" VerticalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center"/>
+        <ListBox Height="332" Canvas.Left="101" Canvas.Top="88" Width="592" HorizontalContentAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Visible">
             <Button Background="#FF1C7609" Content="..." Height="46" Width="500" FontSize="20"/>
             <Button x:Name="Daisy_Button" Background="#FF1C7609" Content="Daisy" Height="46" Width="500" FontSize="20"/>
             <Button Background="#FF1C7609" Content="..." Height="46" Width="500" FontSize="20"/>
             <Button x:Name="Violet_Button" Background="#FF1C7609" Content="Violet" Height="46" Width="500" FontSize="20"/>
         </ListBox>
-        <Button Content="Back" Width="76" Height="30" FontSize="18"/>
-        <TextBox Height="30" Canvas.Left="125" TextWrapping="Wrap" Text="" Canvas.Top="359" Width="474"/>
-        <Button Content="'Search" Canvas.Left="599" Canvas.Top="359" Width="99" Height="30" FontSize="18"/>
+        <Button Content="Back" Canvas.Left="21" Canvas.Top="21" Width="75" Height="28" FontSize="16" Click="Button_Click"/>
     </Canvas>
 </UserControl>
