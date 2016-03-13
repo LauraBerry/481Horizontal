@@ -46,7 +46,7 @@ namespace WpfApplication1
 
         private void VeggieCategory_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new VeggetableList());
+            Switcher.Switch(new VegetableList());
         }
 
         private void Flowers_Click(object sender, RoutedEventArgs e)

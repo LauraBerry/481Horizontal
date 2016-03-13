@@ -55,9 +55,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="2015Garden.xaml.cs">
-      <DependentUpon>2015Garden.xaml</DependentUpon>
-    </Compile>
     <Compile Include="AppleInfoPage.xaml.cs">
       <DependentUpon>AppleInfoPage.xaml</DependentUpon>
     </Compile>
@@ -69,6 +66,18 @@
     </Compile>
     <Compile Include="CreateNewGarden.xaml.cs">
       <DependentUpon>CreateNewGarden.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddPlant2016.xaml.cs">
+      <DependentUpon>AddPlant2016.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddFruit2016.xaml.cs">
+      <DependentUpon>AddFruit2016.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddFlower2016.xaml.cs">
+      <DependentUpon>AddFlower2016.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddHerb2016.xaml.cs">
+      <DependentUpon>AddHerb2016.xaml</DependentUpon>
     </Compile>
     <Compile Include="RemoveFromGarden.xaml.cs">
       <DependentUpon>RemoveFromGarden.xaml</DependentUpon>
@@ -96,13 +105,12 @@
     <Compile Include="GardensWithCarrots.xaml.cs">
       <DependentUpon>GardensWithCarrots.xaml</DependentUpon>
     </Compile>
-    <Compile Include="VeggetableList.xaml.cs">
-      <DependentUpon>VeggetableList.xaml</DependentUpon>
+    <Compile Include="AddVegetable2016.xaml.cs">
+      <DependentUpon>AddVegetable2016.xaml</DependentUpon>
     </Compile>
-    <Page Include="2015Garden.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
+    <Compile Include="VegetableList.xaml.cs">
+      <DependentUpon>VegetableList.xaml</DependentUpon>
+    </Compile>
     <Page Include="AppleInfoPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -119,9 +127,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="AddFlower2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="FlowersList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddFruit2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="FruitsList.xaml">
       <SubType>Designer</SubType>
@@ -130,6 +146,10 @@
     <Page Include="Garden2016.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddHerb2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="HerbsList.xaml">
       <SubType>Designer</SubType>
@@ -151,6 +171,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="AddPlant2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="PlantSearch.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -163,7 +187,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="VeggetableList.xaml">
+    <Page Include="AddVegetable2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VegetableList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -200,6 +228,15 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="dark_dirt02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="garden_wall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="veggies.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
