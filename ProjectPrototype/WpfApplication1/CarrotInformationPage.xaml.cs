@@ -36,7 +36,7 @@ namespace WpfApplication1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new VeggetableList());
+            Switcher.Switch(new VegetableList());
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)

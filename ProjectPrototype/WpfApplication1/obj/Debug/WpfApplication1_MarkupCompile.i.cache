@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 U:\481\481Horizontal\ProjectPrototype\WpfApplication1\App.xaml
-14-1668700615
+19-706850215
 
-24873311877
+29905971860
 141012385901
-AppleInfoPage.xaml;CarrotInformationPage.xaml;CarrotRemoved.xaml;CreateNewGarden.xaml;FlowersList.xaml;FruitsList.xaml;Garden2016.xaml;HerbsList.xaml;HomeScreen.xaml;MainWindow.xaml;PlantSearch.xaml;RemoveFromGarden.xaml;GardensWithCarrots.xaml;VeggetableList.xaml;
+AppleInfoPage.xaml;CarrotInformationPage.xaml;CarrotRemoved.xaml;CreateNewGarden.xaml;AddFlower2016.xaml;FlowersList.xaml;AddFruit2016.xaml;FruitsList.xaml;Garden2016.xaml;AddHerb2016.xaml;HerbsList.xaml;HomeScreen.xaml;MainWindow.xaml;AddPlant2016.xaml;PlantSearch.xaml;RemoveFromGarden.xaml;GardensWithCarrots.xaml;AddVegetable2016.xaml;VegetableList.xaml;
 
 False
 

@@ -6,11 +6,15 @@
              mc:Ignorable="d" 
              d:DesignHeight="452" Width="813">
     <Canvas x:Name="MainPage" RenderTransformOrigin="0,0" Margin="0,0,10,0" Background="#FF649962">
-        <ListBox x:Name="GardenList" Height="295" Canvas.Left="36" Canvas.Top="105" Width="348" ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#FF678162" BorderBrush="#FF305503" Foreground="#FF014F16">
+        <Image Height="328" Canvas.Left="10" Canvas.Top="100" Width="778" Source="veggies.jpg" Stretch="UniformToFill"/>
+        <ListBox x:Name="GardenList" Height="295" Canvas.Left="36" Canvas.Top="105" Width="348" ScrollViewer.VerticalScrollBarVisibility="Visible" BorderBrush="#FF305503" Foreground="#FF014F16">
+            <ListBox.Background>
+                <ImageBrush ImageSource="dark_dirt02.jpg"/>
+            </ListBox.Background>
             <Button x:Name="_2016Garden" Background="#FF0D7212" Content="2016" Height="78" Width="305" FontSize="48" Click="_2016Garden_Click" FontFamily="Papyrus"/>
             <Button Background="#FF0D7212" Content="2015" Height="78" Width="305" FontSize="48" FontFamily="Papyrus"/>
         </ListBox>
-        <Button x:Name="PlantCategories" Content="Plant Database" Canvas.Left="418" Canvas.Top="123" Width="347" Height="91" FontSize="36" Click="PlantCategories_Click" FontFamily="Papyrus" FontWeight="Bold" BorderBrush="#FF305503" Background="#FF0A6E0F" />
+        <Button x:Name="PlantCategories" Content="Plant Library" Canvas.Left="418" Canvas.Top="123" Width="347" Height="91" FontSize="36" Click="PlantCategories_Click" FontFamily="Papyrus" FontWeight="Bold" BorderBrush="#FF305503" Background="#FF0A6E0F" />
         <Button x:Name="Create_NewGarden" Content="New Garden" Canvas.Left="418" Canvas.Top="283" Width="347" Height="91" FontSize="36" Background="#FF0A6E0F" Click="Create_NewGarden_Click" FontFamily="Papyrus" FontWeight="Bold" BorderBrush="#FF305503"/>
         <Label Content="Green Thumb" Canvas.Left="273" FontFamily="Freestyle Script" FontSize="72" Foreground="#FF005A31" Background="#00000000" BorderBrush="Black" BorderThickness="0" FontWeight="Bold"/>
         <Label Content="- Garden Log -" Canvas.Left="317" Canvas.Top="57" FontFamily="Papyrus" FontSize="24" Foreground="#FFA8CD1B"/>
