@@ -12,7 +12,7 @@
         <TextBox Height="200" Canvas.Left="462" TextWrapping="Wrap" Text="" Canvas.Top="120" Width="305"/>
         <Button x:Name="Remove_Button" Content="Remove" Canvas.Left="331" Canvas.Top="325" Width="65" FontSize="16"/>
         <Label Content="Notes" Canvas.Left="462" Canvas.Top="89" Width="305" FontSize="18" HorizontalContentAlignment="Center"/>
-        <TextBox Name="GardenName" Height="34" Canvas.Left="107" TextWrapping="Wrap" Text="-- Gardening Year --" Canvas.Top="58" Width="603" FontSize="20" TextAlignment="Center" Visibility="Visible" GotFocus="GardenName_Focus" />
+        <TextBox Name="GardenName" Height="34" Canvas.Left="107" TextWrapping="Wrap" Text="-- Garden Year/Title --" Canvas.Top="58" Width="603" FontSize="20" TextAlignment="Center" Visibility="Visible" GotFocus="GardenName_Focus" />
         <Button Content="Save" Canvas.Left="331" Canvas.Top="378" Width="163" Height="37" FontSize="20" Click="Button_Click"/>
     </Canvas>
 </UserControl>

@@ -41,7 +41,7 @@ namespace WpfApplication1
 
         private void Add_Button_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new AddPlant2016());
+            Switcher.Switch(new PlantSearch());
         }
 
         private void Remove_Button_Click(object sender, RoutedEventArgs e)
