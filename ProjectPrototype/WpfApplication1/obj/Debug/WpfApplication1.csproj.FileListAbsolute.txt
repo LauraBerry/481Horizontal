@@ -212,3 +212,7 @@ U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\Garden2015.bam
 U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\Garden2015.g.cs
 U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\EmptySearch.baml
 U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\EmptySearch.g.cs
+U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\bin\Debug\WpfApplication1.application
+U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+U:\481\h\481Horizontal\ProjectPrototype\WpfApplication1\obj\Debug\WpfApplication1.application
