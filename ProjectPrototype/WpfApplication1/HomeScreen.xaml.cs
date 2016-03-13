@@ -48,5 +48,10 @@ namespace WpfApplication1
         {
             Switcher.Switch(new CreateNewGarden());
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new Garden2015());
+        }
     }
 }

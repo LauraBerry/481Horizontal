@@ -36,7 +36,7 @@ namespace WpfApplication1
 
         private void Carrot_Button_Click(object sender, RoutedEventArgs e)
         {
-            // Switcher.Switch(new CarrotInformationPage());
+            Switcher.Switch(new Garden2016());
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

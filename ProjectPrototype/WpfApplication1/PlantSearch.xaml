@@ -14,7 +14,7 @@
         </ListBox>
         <Label Content="Plants" Canvas.Left="190" Canvas.Top="16" Width="392" FontSize="48" FontFamily="Freestyle Script" HorizontalAlignment="Center" VerticalAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center"/>
         <TextBox Height="32" Canvas.Left="101" TextWrapping="Wrap" Text="" Canvas.Top="327" Width="481" Background="#FFF7F9F7"/>
-        <Button Content="Search" Canvas.Left="587" Canvas.Top="327" Width="106" Height="32"/>
+        <Button Content="Search" Canvas.Left="587" Canvas.Top="327" Width="106" Height="32" Click="Button_Click_1"/>
         <Button Content="Back" FontSize="16" Canvas.Left="21" Canvas.Top="21" Width="75" Height="28" Click="Button_Click"/>
     </Canvas>
 </UserControl>

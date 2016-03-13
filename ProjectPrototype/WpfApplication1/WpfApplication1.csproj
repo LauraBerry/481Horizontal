@@ -79,6 +79,10 @@
     <Compile Include="AddHerb2016.xaml.cs">
       <DependentUpon>AddHerb2016.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Garden2015.xaml.cs" />
+    <Compile Include="EmptySearch.xaml.cs">
+      <DependentUpon>EmptySearch.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RemoveFromGarden.xaml.cs">
       <DependentUpon>RemoveFromGarden.xaml</DependentUpon>
     </Compile>
@@ -143,6 +147,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Garden2015.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Garden2016.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -172,6 +180,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="AddPlant2016.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="EmptySearch.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

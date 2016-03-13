@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for GardensWithCarrots.xaml
+    /// Interaction logic for Garden2015.xaml
     /// </summary>
-    public partial class GardensWithCarrots : UserControl, Switchable
+    public partial class Garden2015 : UserControl,Switchable
     {
-        public GardensWithCarrots()
+        public Garden2015()
         {
             this.InitializeComponent();
         }
@@ -34,14 +34,19 @@ namespace WpfApplication1
 
         #endregion
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new CarrotInformationPage());
+            Switcher.Switch(new HomeScreen());
         }
 
-        private void _2016_Button_Click(object sender, RoutedEventArgs e)
+        private void Add_Button_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new Garden2016());
+            
+        }
+
+        private void Remove_Button_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }

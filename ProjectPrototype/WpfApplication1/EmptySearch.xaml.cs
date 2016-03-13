@@ -16,13 +16,27 @@ using System.Windows.Shapes;
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for _2016Garden.xaml
+    /// Interaction logic for PlantSearch.xaml
     /// </summary>
-    public partial class _2016Garden : Page
+    public partial class EmptySearch : UserControl, Switchable
     {
-        public _2016Garden()
+        public EmptySearch()
         {
-            InitializeComponent();
+            this.InitializeComponent();
+        }
+
+        #region Switchable Members
+
+        public void UtilizeState(object state)
+        {
+            throw new NotImplementedException();
+        }
+
+        #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new PlantSearch());
         }
     }
 }

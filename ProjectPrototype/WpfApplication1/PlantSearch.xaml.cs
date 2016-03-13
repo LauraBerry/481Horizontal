@@ -59,5 +59,10 @@ namespace WpfApplication1
             Switcher.Switch(new HerbsList());
         }
 
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Switcher.Switch(new EmptySearch());
+        }
+
     }
 }

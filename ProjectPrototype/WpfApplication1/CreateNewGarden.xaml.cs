@@ -42,7 +42,7 @@ namespace WpfApplication1
 
         private void Add_Button_Click(object sender, RoutedEventArgs e)
         {
-            Switcher.Switch(new PlantSearch());
+            
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
